@@ -1,0 +1,5 @@
+packageName: ack-mq-operator
+channels:
+- name: alpha
+  currentCSV: ack-mq-controller.v0.0.4
+defaultChannel: alpha
